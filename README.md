@@ -1,8 +1,7 @@
 # tfjs-linear-regression
-I build a linear Regression Model using TensorFlow.JS
+The Project is a visual representation of Linear Regression Model , built with Tensorflow.js
 ## What is Linear Regression???
-Linear regression is perhaps one of the most well known and well understood algorithms in statistics and machine learning.
-Linear regression is an attractive model because the representation is so simple.
+> linear regression is a linear approach to modelling the relationship between a scalar response and one or more explanatory variables (also known as dependent and independent variables).
 
 The representation is a linear equation that combines a specific set of input values (x) the solution to which is the predicted output for that set of input values (y). As such, both the input values (x) and the output value are numeric.
 
